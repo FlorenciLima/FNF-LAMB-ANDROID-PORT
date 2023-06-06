@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LAMB.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amanda down0000" x="0" y="0" width="482" height="434" frameX="-8" frameY="-11" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0001" x="0" y="0" width="482" height="434" frameX="-8" frameY="-11" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0002" x="482" y="0" width="482" height="434" frameX="-8" frameY="-11" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0003" x="964" y="0" width="487" height="436" frameX="-9" frameY="-9" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0004" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0005" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0006" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0007" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0008" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0009" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0010" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0011" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0012" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0013" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda down0014" x="1451" y="0" width="495" height="445" frameX="0" frameY="0" frameWidth="496" frameHeight="445"/>
+	<SubTexture name="amanda idle0000" x="1946" y="0" width="414" height="476" frameX="0" frameY="0" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0001" x="1946" y="0" width="414" height="476" frameX="0" frameY="0" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0002" x="2360" y="0" width="433" height="468" frameX="-2" frameY="-8" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0003" x="2360" y="0" width="433" height="468" frameX="-2" frameY="-8" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0004" x="2793" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0005" x="2793" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0006" x="3217" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0007" x="3217" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0008" x="3641" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0009" x="3641" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0010" x="2793" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0011" x="2793" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0012" x="3217" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda idle0013" x="3217" y="0" width="424" height="473" frameX="-7" frameY="-3" frameWidth="435" frameHeight="476"/>
+	<SubTexture name="amanda left0000" x="0" y="476" width="411" height="495" frameX="0" frameY="-8" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0001" x="411" y="476" width="411" height="495" frameX="0" frameY="-8" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0002" x="822" y="476" width="411" height="495" frameX="0" frameY="-8" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0003" x="1233" y="476" width="510" height="496" frameX="-13" frameY="-7" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0004" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0005" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0006" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0007" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0008" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0009" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0010" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0011" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0012" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0013" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda left0014" x="1743" y="476" width="473" height="503" frameX="-33" frameY="0" frameWidth="523" frameHeight="503"/>
+	<SubTexture name="amanda right0000" x="2216" y="476" width="457" height="471" frameX="-1" frameY="-12" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0001" x="2216" y="476" width="457" height="471" frameX="-1" frameY="-12" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0002" x="2673" y="476" width="462" height="483"/>
+	<SubTexture name="amanda right0003" x="3135" y="476" width="462" height="483"/>
+	<SubTexture name="amanda right0004" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0005" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0006" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0007" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0008" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0009" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0010" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0011" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0012" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0013" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda right0014" x="3597" y="476" width="461" height="480" frameX="0" frameY="-3" frameWidth="462" frameHeight="483"/>
+	<SubTexture name="amanda up0000" x="0" y="979" width="289" height="547" frameX="-3" frameY="0" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0001" x="0" y="979" width="289" height="547" frameX="-3" frameY="0" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0002" x="289" y="979" width="289" height="547" frameX="-3" frameY="0" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0003" x="578" y="979" width="289" height="547" frameX="-3" frameY="0" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0004" x="867" y="979" width="307" height="532" frameX="0" frameY="-14" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0005" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0006" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0007" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0008" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0009" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0010" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0011" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0012" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0013" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+	<SubTexture name="amanda up0014" x="1174" y="979" width="301" height="540" frameX="-3" frameY="-6" frameWidth="307" frameHeight="547"/>
+</TextureAtlas>
